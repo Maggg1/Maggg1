@@ -1,4 +1,8 @@
-<p align="center" style="font-family: monospace; white-space: pre; line-height: 1;">
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Maggg1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="right" style="font-family: monospace; white-space: pre; line-height: 1;">
 ⠀⠀⠀⠀⠀⢀⣴⡶⣶⡄⠀⠀⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⣴⡿⠛⣿⣶⠟⢁⣴⣿⣷⣦⠀⠀⢠⣾⠟⣿⣧⡀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀
 ⠀⠀⣸⣟⠀⢠⠟⠉⣴⣿⣿⣯⣾⣿⣷⡾⢿⣷⢾⡉⠙⣿⡿⢛⣿⣦⣶⣤⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⡤⠴⠖⠒⠒⠲⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣤⠈⠁⠀⠀
