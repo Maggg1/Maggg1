@@ -27,11 +27,12 @@
 <p align="center">Future learning: Linux 🐧 and C# </p>
 
 <p align="center">
-  <a href="https://github.com/Maggg1">
-    <img src="https://img.shields.io/badge/GitHub-Maggg1-181717?logo=github&style=for-the-badge" alt="GitHub Maggg1" />
+  <a href="https://www.instagram.com/yenosor">
+    <img src="https://img.shields.io/badge/Instagram-%40yenosor-FF69B4?logo=instagram&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/magdalene-michael-7987b4319">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+  <a href="mailto:maggiesmiley00@gmail.com">
+    <img src="https://img.shields.io/badge/Email-maggiesmiley00%40gmail.com-blue?logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
