@@ -22,7 +22,7 @@
 </p>
 
 <h2 align="center">✨ Mag ✨</h2>
-<p align="center"><strong>Full Stack Developer</strong></p>
+<p align="center"><strong>Aspiring Full Stack Developer</strong></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,express,js,php,nodejs,mongodb,firebase,googlecloud" alt="Tech Stack" />
