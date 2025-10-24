@@ -1,7 +1,3 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Maggg1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 <p align="right" style="font-family: monospace; white-space: pre; line-height: 1;">
 ⠀⠀⠀⠀⠀⢀⣴⡶⣶⡄⠀⠀⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⣴⡿⠛⣿⣶⠟⢁⣴⣿⣷⣦⠀⠀⢠⣾⠟⣿⣧⡀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀
@@ -19,9 +15,12 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢘⡟⠀⢰⠂⠐⡄⠸⣧⡴⠋⠀⠀⠀⠸⣆⣀⡾⠁⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠇⠀⠀⠁⠀⠁⠀⠀⠀⣠⠤⢤⡀⠀⠉⠉⠀⠀⠀⠀⠠⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣀⣀⣀⣀⣀⣀⣀⣀⣸⣁⣀⣀⣻⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣨⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Maggg1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 </p>
 
-<h2 align="center">✨ Mag ✨</h2>
+<h2 align="center">✨ Magdalene ✨</h2>
 <p align="center"><strong>Aspiring Full Stack Developer</strong></p>
 
 <p align="center">
