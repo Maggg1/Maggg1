@@ -24,7 +24,7 @@
 <p align="center"><strong>Aspiring Full Stack Developer</strong></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,express,js,php,nodejs,mongodb,firebase,googlecloud" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,express,js,php,nodejs,mongodb,firebase,googlecloud,nextjs" alt="Tech Stack" />
 </p>
 
 <p align="center">Future learning: Linux 🐧 and C# </p>
