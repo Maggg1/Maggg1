@@ -9,7 +9,7 @@
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,js,mongodb,firebase,gcp" />
+  <img src="https://skillicons.dev/icons?i=figma,react,nextjs,nodejs,express,js,mongodb,firebase,gcp" />
 </p>
 
 ### 🚀 Currently Learning
