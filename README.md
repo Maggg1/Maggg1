@@ -13,7 +13,7 @@
 ---
 
 ### 📫 Let's Connect
-<p align="left">
+<p align="center">
   <a href="https://www.instagram.com/yenosor">
     <img src="https://img.shields.io/badge/Instagram-%40yenosor-FF69B4?style=flat-square&logo=instagram&logoColor=white" />
   </a>
