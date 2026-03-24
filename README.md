@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Magdalene 👋</h1>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Maggg1&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
-</p>
-
 ---
 
 ### 🛠️ Tech Stack
