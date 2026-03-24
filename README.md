@@ -19,11 +19,6 @@ I specialize in modern JavaScript ecosystems.
 ### Current Focus
 * 🎓 **Learning:** Deep diving into **NestJS** microservices and **Docker** orchestration.
 
-### 📊 GitHub Stats
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maggg1&layout=compact&theme=transparent" />
-</p>
-
 ---
 
 ### 📫 Let's Connect
