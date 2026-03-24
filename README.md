@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Magdalene 👋</h1>
-<p align="center"><b>Aspiring Full Stack Developer</b></p>
 
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=Maggg1&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
 </p>
 
@@ -14,7 +13,6 @@
 
 ### 🚀 Currently Learning
 * **Frameworks:** Next.js & NestJS
-* **Architecture:** Microservices & Backend Optimization
 
 ---
 
@@ -26,4 +24,7 @@
   <a href="mailto:maggiesmiley00@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+</p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Maggg1&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
 </p>
