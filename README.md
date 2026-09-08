@@ -6,18 +6,18 @@
 </p>
 
 <p align="left">
-I specialize in modern JavaScript ecosystems.
+  I work mainly with modern JavaScript ecosystems, but I genuinely enjoy UI/UX design more than writing code.
 </p>
 
 ### Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,nodejs,express,mongodb,prisma,firebase,gcp,figma,github,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,vue,vite,nextjs,react,nodejs,express,nestjs,python,mysql,postgres,mongodb,prisma,firebase,docker,nginx,linux,gcp,figma,github,vscode" />
 </p>
 
 ---
 
 ### Current Focus
-* 🎓 **Learning:** Deep diving into **NestJS** microservices and **Docker** orchestration.
+* 🎓 **Learning:** Deep diving into **Linux**, system administration, and deployment workflows.
 
 ---
 
