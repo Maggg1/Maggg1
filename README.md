@@ -17,7 +17,7 @@
 ---
 
 ### Current Focus
-* 🎓 **Learning:** Deep diving into **Linux**, system administration, and deployment workflows.
+* 🎓 **Learning:** Deep diving into **Cybersecurity**, **Linux**, system administration, and deployment workflows.
 
 ---
 
