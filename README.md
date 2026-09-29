@@ -20,11 +20,6 @@
 * 🎓 **Learning:** Deep diving into **Cybersecurity**, **Linux**, system administration, and deployment workflows.
 
 ---
-## 📊 Contribution Activity
-
-<p align="center">
-  <img src="./profile-cards/contributions.svg" alt="Magdalene's GitHub contributions" />
-</p>
 
 ### 📫 Let's Connect
 <p align="left">
