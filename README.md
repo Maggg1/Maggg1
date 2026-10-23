@@ -7,7 +7,6 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Maggg1&style=for-the-badge&color=2dd4bf&labelColor=0d1117&label=PROFILE+VIEWS" alt="profile views" />
-<img src="https://img.shields.io/github/followers/Maggg1?style=for-the-badge&logo=github&color=a78bfa&labelColor=0d1117" alt="followers" />
 
 </div>
 
@@ -46,16 +45,6 @@ I work mainly with modern JavaScript ecosystems, but I genuinely enjoy UI/UX des
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Maggg1&hide_border=true&border_radius=16&background=0d1117&ring=2dd4bf&fire=fb923c&currStreakLabel=2dd4bf&sideLabels=a78bfa&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maggg1&bg_color=0d1117&color=2dd4bf&line=a78bfa&point=ffffff&area=true&area_color=2dd4bf&hide_border=true" alt="activity graph" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Maggg1/Maggg1/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-
-</div>
 
 ---
 
