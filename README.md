@@ -31,6 +31,18 @@
   </a>
 </p>
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/?username=Maggg1&show_icons=true&hide_border=true&border_radius=16&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=2dd4bf&icon_color=a78bfa&text_color=c9d1d9&ring_color=2dd4bf" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maggg1&layout=donut&hide_border=true&border_radius=16&langs_count=6&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Maggg1&hide_border=true&border_radius=16&background=0d1117&ring=2dd4bf&fire=fb923c&currStreakLabel=2dd4bf&sideLabels=a78bfa&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
+
+</div>
 
 
 
